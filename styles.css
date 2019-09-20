@@ -1,8 +1,11 @@
-h3 {
-  background-color: gray
+
+*{
+ background-color: rebeccapurple;
+}
+body{
+    background-color: bisque;
 }
 
-.box2 {
-  background-color: blue;
-  color: white;
-}
+
+
+
